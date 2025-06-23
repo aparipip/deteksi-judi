@@ -7,5 +7,5 @@ https://aparipip.com/deteksijudi/
 # tampilan hasil deteksi (judi)
 ![Image](https://github.com/user-attachments/assets/528a2bbd-5756-45ec-ac4b-a3076211310a)
 
-#tampilan hasil deteksi (non-judi)
+# tampilan hasil deteksi (non-judi)
 ![Image](https://github.com/user-attachments/assets/ffbd6eb6-2494-44f9-9344-97cc3e41e4c2)
